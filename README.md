@@ -77,11 +77,13 @@ __Pipeline for Method 2__
 
 ### Method 1 
 ![Method 1 output](./assets/m1op.png)<br/>
+![Method 1 output](./assets/method1.png)<br/>
 For method 1 we can see 2 media companies compared in terms of their topics, the amount of red indicates common reporting topics. 
 We believe that news companies which align themself similarly politically should have more red portion than blue. 
 
 ### Method 2 
 ![Method 2 output](./assets/m2op.png)<br/>
+![Method 2 output](./assets/method2.png)<br/>
 For method 2 we can see that 2 articles from different news sources report similar keywords in the following context. 
 Technically, the bigram most common with `force` in terms of frequency are listed for 2 different media outlets. 
 
